@@ -1,8 +1,10 @@
-*spec.txt*  For Vim version 6.3.  Last change: 2005 Jul 09
+*spec.txt*  For Vim version 6.3.  Last change: 2018-06-19
 
-Guillaume Rousse <guillomovitch@zarb.org
+Author: Guillaume Rousse <guillomovitch@zarb.org
+Maintainer: Johnny A. Solbu
 
 This is a filetype plugin to help editing rpm spec files.
+It is designed to work on Mandriva derived distros, such as OpenMandriva and Mageia.
 
 1. Features		|spec-features|
 2. Customization	|spec-customization|
