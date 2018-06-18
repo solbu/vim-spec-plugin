@@ -1,8 +1,8 @@
 " Vim filetype plugin
 " Language:	spec file
 " Maintainer:	Guillaume Rousse <guillomovitch@zarb.org>
-" URL:		http://www.zarb.org/~guillomovitch/linux/spec.vim
-" Version:	$Id: spec.vim 181 2005-07-21 18:37:45Z guillaume $
+" URL:		https://github.com/solbu/vim-spec-plugin
+" Version:	spec.vim 3.0 2005-07-21 $
 
 if exists("b:did_ftplugin")
 	finish
