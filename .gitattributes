@@ -1,0 +1,3 @@
+# Ignore files when generating archives
+.gitattributes export-ignore
+.gitignore export-ignore
