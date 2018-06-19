@@ -1,0 +1,4 @@
+This is a vim filetype plugin to help editing rpm spec files, originally written by Guillaume Rousse.
+It is designed to work on Mandriva derived distros, such as OpenMandriva and Mageia.
+
+Just put in your .vim/ftplugin dir, to start using it
